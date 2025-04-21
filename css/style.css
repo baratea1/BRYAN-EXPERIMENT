@@ -7,6 +7,8 @@ The Formula:
 
 p{
     color: black;
+    font-size: large;
+    font-family:cursive;
 }
 
 body{
@@ -24,6 +26,8 @@ img{
 
 ul{
     color: white;
+    font-size: large;
+    font-family:cursive;
 }
 
 .yellow{
@@ -41,6 +45,8 @@ ul{
 }
 
 .caption{
+    font-size: large;
+    font-family:cursive;
     background-color: #8cc248;
     color:rgb(248, 239, 227);
     width:fit-content;
