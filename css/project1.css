@@ -1,0 +1,82 @@
+@font-face{
+    src: url("/assets/fonts/from-cartoon-blocks/From\ Cartoon\ Blocks.ttf");
+    font-family: cartoon;
+}
+
+p{
+    color: black;
+    font-size: large;
+    font-family:cursive;
+}
+
+body{
+    background-color: #139ffe;
+}
+
+img{
+    display: block;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+ul{
+    color: white;
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+.yellow{
+    color: yellow;
+    font-size: xx-small;
+}
+
+.green{
+    color: #8cc248;
+}
+
+.black{
+    color: black;
+}
+
+.boxed{
+    border: 4px solid #3174ad;
+    background: #3F5EFB;
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    padding: 15px;
+    font-size: 500%;
+}
+
+.caption{
+    font-size: larger;
+    font-family: cursive;
+    background-color: #8cc248;
+    color:rgb(248, 239, 227);
+    width:fit-content;
+    padding: 5px;
+    margin: auto;
+    margin-top: 5px;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+
+.cartoon-font {
+    font-family: cartoon;
+}
+
+.tenor-gif-embed{
+    max-width: 24%;
+    display: inline-block;
+}
+
+.overlap1{
+    position: absolute;
+    left: 7%;
+}
+
+.overlap2{
+    position: absolute;
+    right: 7%;
+}
